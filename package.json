@@ -7,5 +7,8 @@
         "camel-case": "*",
         "is-upper-case": "*"
     },
+    "scripts": {
+        "build-now": "scripts/build-now.sh"
+    },
     "license": "Same as Vim"
 }
