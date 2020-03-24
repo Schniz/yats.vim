@@ -1,7 +1,6 @@
 #!/bin/bash
 
-echo "command -v vim  ?"
-command -v vim
+echo "command -v apk  ?"
+command -v apk
 
-echo "apt get install vim ?"
-apt-get install vim
+echo '------done------'
