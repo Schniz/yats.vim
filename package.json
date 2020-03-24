@@ -8,7 +8,7 @@
         "is-upper-case": "*"
     },
     "scripts": {
-        "now-build": "scripts/build-now.sh"
+        "build": "scripts/build-now.sh"
     },
     "license": "Same as Vim"
 }
